@@ -23,7 +23,7 @@ canvas {
     display: none;
 }
 
-#about .video-container {
+#about:target .video-container {
     display: block;
 }
 
